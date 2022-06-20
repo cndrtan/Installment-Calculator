@@ -15,6 +15,3 @@ Apple Developer Academy @ UC Cohort 2022
 
 # Notes
 Nano Challenge 1 at Apple Developer Academy @ UC
-
-# Learn
-Learn Branching in Github
